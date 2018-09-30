@@ -36,4 +36,5 @@ onions_map = {
 	["wiuwiu.de"] = "jrbiogs6dv5txt5s.onion";
 	["xmpp.is"] = "y2qmqomqpszzryei.onion";
 	["creep.im"] = "creep7nissfumwyx.onion";
+	["jabber.systemausfall.org"] = "clciwvt5qnxoqykx.onion";
 };
