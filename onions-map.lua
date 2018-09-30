@@ -37,4 +37,6 @@ onions_map = {
 	["xmpp.is"] = "y2qmqomqpszzryei.onion";
 	["creep.im"] = "creep7nissfumwyx.onion";
 	["jabber.systemausfall.org"] = "clciwvt5qnxoqykx.onion";
+	["jabber.immerda.ch"] = "ysp4gfuhnmj6b4mb.onion";
+	["imsg.ch"] = "ysp4gfuhnmj6b4mb.onion";
 };
