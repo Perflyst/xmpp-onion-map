@@ -1,4 +1,5 @@
 onions_map = {
+	["niel.site"] = "nielxmppui7hbk7o.onion";
 	["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 	["autistici.org"] = "wi7qkxyrdpu5cmvr.onion";
 	["jabber.calyxinstitute.org"] = "ijeeynrc6x2uy5ob.onion";
